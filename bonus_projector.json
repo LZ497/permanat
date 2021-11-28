@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/LZ497/GU-ANLY-580-FALL-2021/blob/a83f32526626fe61e23e2c2de6f62292541bb2f8/labs/lab-09/embeddings_vect.tsv",
-      "metadataPath": "https://github.com/LZ497/GU-ANLY-580-FALL-2021/blob/a83f32526626fe61e23e2c2de6f62292541bb2f8/labs/lab-09/samples.tsv"
+      "tensorPath": "https://github.com/LZ497/permanat/blob/9b5139833d4077b1ac5e694c1e2c46673c33d597/embeddings_vect.tsv",
+      "metadataPath": "https://github.com/LZ497/permanat/blob/9b5139833d4077b1ac5e694c1e2c46673c33d597/samples.tsv"
     }
   ]
 }
