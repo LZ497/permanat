@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/LZ497/permanat/blob/8a0722a9ee8a779c1c796cae09cadcd986a9f4b2/embeddings_vect.tsv",
-      "metadataPath": "https://github.com/LZ497/permanat/blob/8a0722a9ee8a779c1c796cae09cadcd986a9f4b2/samples.tsv"
+      "tensorPath": "https://github.com/LZ497/permanat/blob/main/embeddings_vect.tsv",
+      "metadataPath": "https://github.com/LZ497/permanat/blob/main/samples.tsv"
     }
   ]
 }
