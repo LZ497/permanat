@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/LZ497/GU-ANLY-580-FALL-2021/blob/a83f32526626fe61e23e2c2de6f62292541bb2f8/labs/lab-09/embeddings_vect.tsv",
+      "metadataPath": "https://github.com/LZ497/GU-ANLY-580-FALL-2021/blob/a83f32526626fe61e23e2c2de6f62292541bb2f8/labs/lab-09/samples.tsv"
+    }
+  ]
+}
