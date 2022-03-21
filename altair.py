@@ -12,9 +12,9 @@ import altair as alt
 import streamlit as st
 import time
 
-family_4 = pd.read_csv('/Users/linpei/Desktop/family_4.csv')
-family_5 = pd.read_csv('/Users/linpei/Desktop/family_5.csv')
-family_6 = pd.read_csv('/Users/linpei/Desktop/family_6.csv')
+family_4 = pd.read_csv('family_4.csv')
+family_5 = pd.read_csv('family_5.csv')
+family_6 = pd.read_csv('family_6.csv')
 
 family_4['date'] = pd.to_datetime(family_4['date'])
 family_5['date'] = pd.to_datetime(family_5['date'])
